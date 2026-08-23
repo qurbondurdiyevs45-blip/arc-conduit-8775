@@ -1,0 +1,15 @@
+{
+  "name": "arc-conduit-8775",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 5294,
+    "createdAt": "2026-08-23T16:23:03.406Z"
+  }
+}
